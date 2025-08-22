@@ -1,0 +1,3001 @@
+{
+  "orders": [
+    {
+      "id": "1755611779357",
+      "created_at": "2025-08-19T16:56:19.357536+03:00",
+      "passenger": {
+        "user_id": 8112132399,
+        "username": "prot_009",
+        "first_name": "Proton",
+        "last_name": null,
+        "phone": "380981512669"
+      },
+      "route": {
+        "start": {
+          "coords": [
+            50.336685,
+            30.432716
+          ]
+        },
+        "stops": [],
+        "final": {
+          "address": "Волноваська 15",
+          "coords": [
+            50.4449745,
+            30.4104902
+          ]
+        },
+        "distance_km": 17.0
+      },
+      "pricing": {
+        "tariff": "Стандарт",
+        "multiplier": 1.3,
+        "extra_stops_fee": 30,
+        "price_total": 3445
+      },
+      "payment_type": "💵 Готівка",
+      "eta_min": 8,
+      "status": "new",
+      "pickup": {
+        "address": "50.336685,30.432716",
+        "coords": [
+          50.336685,
+          30.432716
+        ]
+      },
+      "dropoff": {
+        "address": "Волноваська 15",
+        "coords": [
+          50.4449745,
+          30.4104902
+        ]
+      },
+      "distance_km": 17.0,
+      "tariff": "Стандарт",
+      "payment": "💵 Готівка",
+      "price": 3445,
+      "destination": "Невідомо"
+    },
+    {
+      "id": "1755611876636",
+      "created_at": "2025-08-19T16:57:56.636974+03:00",
+      "passenger": {
+        "user_id": 8112132399,
+        "username": "prot_009",
+        "first_name": "Proton",
+        "last_name": null,
+        "phone": "380981512669"
+      },
+      "route": {
+        "start": {
+          "coords": [
+            50.336685,
+            30.432716
+          ]
+        },
+        "stops": [],
+        "final": {
+          "address": "Волноваська 15",
+          "coords": [
+            50.4449745,
+            30.4104902
+          ]
+        },
+        "distance_km": 17.0
+      },
+      "pricing": {
+        "tariff": "Стандарт",
+        "multiplier": 1.3,
+        "extra_stops_fee": 30,
+        "price_total": 3445
+      },
+      "payment_type": "💵 Готівка",
+      "eta_min": 8,
+      "status": "new",
+      "pickup": {
+        "address": "50.336685,30.432716",
+        "coords": [
+          50.336685,
+          30.432716
+        ]
+      },
+      "dropoff": {
+        "address": "Волноваська 15",
+        "coords": [
+          50.4449745,
+          30.4104902
+        ]
+      },
+      "distance_km": 17.0,
+      "tariff": "Стандарт",
+      "payment": "💵 Готівка",
+      "price": 3445,
+      "destination": "Невідомо"
+    },
+    {
+      "id": "c22591e2-caec-4439-a517-e08f36c65b64",
+      "user_id": 8112132399,
+      "username": "prot_009",
+      "chat_id": 8112132399,
+      "pickup": null,
+      "destination": null,
+      "tariff": "Стандарт",
+      "price": 1169,
+      "payment_method": "💵 Готівка",
+      "created_at": "2025-08-19T16:01:47.959173"
+    },
+    {
+      "id": "1755619310311",
+      "created_at": "2025-08-19T19:01:50.311581+03:00",
+      "passenger": {
+        "user_id": 8112132399,
+        "username": "prot_009",
+        "first_name": "Proton",
+        "last_name": null,
+        "phone": "380981512669"
+      },
+      "route": {
+        "start": {
+          "coords": [
+            50.336685,
+            30.432716
+          ]
+        },
+        "stops": [],
+        "final": {
+          "address": "Глушкова 12",
+          "coords": [
+            50.372041,
+            30.4592179
+          ]
+        },
+        "distance_km": 6.7
+      },
+      "pricing": {
+        "tariff": "Стандарт",
+        "multiplier": 1.3,
+        "extra_stops_fee": 30,
+        "price_total": 1169
+      },
+      "payment_type": "💵 Готівка",
+      "eta_min": 8,
+      "status": "new",
+      "pickup": {
+        "address": "50.336685,30.432716",
+        "coords": [
+          50.336685,
+          30.432716
+        ]
+      },
+      "dropoff": {
+        "address": "Глушкова 12",
+        "coords": [
+          50.372041,
+          30.4592179
+        ]
+      },
+      "distance_km": 6.7,
+      "tariff": "Стандарт",
+      "payment": "💵 Готівка",
+      "price": 1169,
+      "destination": "Невідомо"
+    },
+    {
+      "id": "f5a433de-f8a4-411b-95a8-22ea67d1b978",
+      "user_id": 6956364231,
+      "username": null,
+      "chat_id": 6956364231,
+      "pickup": null,
+      "destination": null,
+      "tariff": "Стандарт",
+      "price": 1169,
+      "payment_method": "💵 Готівка",
+      "created_at": "2025-08-19T16:13:33.216244"
+    },
+    {
+      "id": "3c8ea6d0-8260-47d0-b942-7c44ee0872cb",
+      "user_id": 6956364231,
+      "username": null,
+      "chat_id": 6956364231,
+      "pickup": null,
+      "destination": null,
+      "tariff": "Стандарт",
+      "price": 1169,
+      "payment_method": "💵 Готівка",
+      "created_at": "2025-08-19T16:18:16.774569"
+    },
+    {
+      "id": "1755620299834",
+      "created_at": "2025-08-19T19:18:19.834096+03:00",
+      "passenger": {
+        "user_id": 6956364231,
+        "username": null,
+        "first_name": "Сергій",
+        "last_name": "Вікторович",
+        "phone": "380983871459"
+      },
+      "route": {
+        "start": {
+          "coords": [
+            50.336718,
+            30.432703
+          ]
+        },
+        "stops": [],
+        "final": {
+          "address": "Глушкова 12",
+          "coords": [
+            50.372041,
+            30.4592179
+          ]
+        },
+        "distance_km": 6.7
+      },
+      "pricing": {
+        "tariff": "Стандарт",
+        "multiplier": 1.3,
+        "extra_stops_fee": 30,
+        "price_total": 1169
+      },
+      "payment_type": "💵 Готівка",
+      "eta_min": 8,
+      "status": "new",
+      "pickup": {
+        "address": "50.336718,30.432703",
+        "coords": [
+          50.336718,
+          30.432703
+        ]
+      },
+      "dropoff": {
+        "address": "Глушкова 12",
+        "coords": [
+          50.372041,
+          30.4592179
+        ]
+      },
+      "distance_km": 6.7,
+      "tariff": "Стандарт",
+      "payment": "💵 Готівка",
+      "price": 1169,
+      "destination": "Невідомо"
+    },
+    {
+      "id": "1c416554-ae4f-40d9-87b7-354ea5e90ec8",
+      "user_id": 6956364231,
+      "username": null,
+      "chat_id": 6956364231,
+      "pickup": null,
+      "destination": null,
+      "tariff": "Стандарт",
+      "price": 1169,
+      "payment_method": "💵 Готівка",
+      "created_at": "2025-08-19T16:21:58.770412"
+    },
+    {
+      "id": "1755620916204",
+      "created_at": "2025-08-19T19:28:36.204409+03:00",
+      "passenger": {
+        "user_id": 6956364231,
+        "username": null,
+        "first_name": "Сергій",
+        "last_name": "Вікторович",
+        "phone": "380983871459"
+      },
+      "route": {
+        "start": {
+          "coords": [
+            50.336718,
+            30.432703
+          ]
+        },
+        "stops": [],
+        "final": {
+          "address": "Глушкова 12",
+          "coords": [
+            50.372041,
+            30.4592179
+          ]
+        },
+        "distance_km": 6.7
+      },
+      "pricing": {
+        "tariff": "Стандарт",
+        "multiplier": 1.3,
+        "extra_stops_fee": 30,
+        "price_total": 1169
+      },
+      "payment_type": "💵 Готівка",
+      "eta_min": 8,
+      "status": "new",
+      "pickup": {
+        "address": "50.336718,30.432703",
+        "coords": [
+          50.336718,
+          30.432703
+        ]
+      },
+      "dropoff": {
+        "address": "Глушкова 12",
+        "coords": [
+          50.372041,
+          30.4592179
+        ]
+      },
+      "distance_km": 6.7,
+      "tariff": "Стандарт",
+      "payment": "💵 Готівка",
+      "price": 1169,
+      "destination": "Невідомо"
+    },
+    {
+      "id": "5a846149-eec4-42de-beda-656716e6e469",
+      "user_id": 6956364231,
+      "username": null,
+      "chat_id": 6956364231,
+      "pickup": null,
+      "destination": null,
+      "tariff": "Стандарт",
+      "price": 1169,
+      "payment_method": "💵 Готівка",
+      "created_at": "2025-08-19T16:30:27.175094"
+    },
+    {
+      "id": "1755621028545",
+      "created_at": "2025-08-19T19:30:28.545122+03:00",
+      "passenger": {
+        "user_id": 6956364231,
+        "username": null,
+        "first_name": "Сергій",
+        "last_name": "Вікторович",
+        "phone": "380983871459"
+      },
+      "route": {
+        "start": {
+          "coords": [
+            50.336718,
+            30.432703
+          ]
+        },
+        "stops": [],
+        "final": {
+          "address": "Глушкова 12",
+          "coords": [
+            50.372041,
+            30.4592179
+          ]
+        },
+        "distance_km": 6.7
+      },
+      "pricing": {
+        "tariff": "Стандарт",
+        "multiplier": 1.3,
+        "extra_stops_fee": 30,
+        "price_total": 1169
+      },
+      "payment_type": "💵 Готівка",
+      "eta_min": 8,
+      "status": "new",
+      "pickup": {
+        "address": "50.336718,30.432703",
+        "coords": [
+          50.336718,
+          30.432703
+        ]
+      },
+      "dropoff": {
+        "address": "Глушкова 12",
+        "coords": [
+          50.372041,
+          30.4592179
+        ]
+      },
+      "distance_km": 6.7,
+      "tariff": "Стандарт",
+      "payment": "💵 Готівка",
+      "price": 1169,
+      "destination": "Невідомо"
+    },
+    {
+      "id": "2116bb34-8d57-4769-8d1a-a07467020d3c",
+      "user_id": 6956364231,
+      "username": null,
+      "chat_id": 6956364231,
+      "pickup": null,
+      "destination": null,
+      "tariff": "Стандарт",
+      "price": 1169,
+      "payment_method": "💵 Готівка",
+      "created_at": "2025-08-19T16:33:23.754251"
+    },
+    {
+      "id": "1755621205085",
+      "created_at": "2025-08-19T19:33:25.085655+03:00",
+      "passenger": {
+        "user_id": 6956364231,
+        "username": null,
+        "first_name": "Сергій",
+        "last_name": "Вікторович",
+        "phone": "380983871459"
+      },
+      "route": {
+        "start": {
+          "coords": [
+            50.336718,
+            30.432703
+          ]
+        },
+        "stops": [],
+        "final": {
+          "address": "Глушкова 12",
+          "coords": [
+            50.372041,
+            30.4592179
+          ]
+        },
+        "distance_km": 6.7
+      },
+      "pricing": {
+        "tariff": "Стандарт",
+        "multiplier": 1.3,
+        "extra_stops_fee": 30,
+        "price_total": 1169
+      },
+      "payment_type": "💵 Готівка",
+      "eta_min": 8,
+      "status": "new",
+      "pickup": {
+        "address": "50.336718,30.432703",
+        "coords": [
+          50.336718,
+          30.432703
+        ]
+      },
+      "dropoff": {
+        "address": "Глушкова 12",
+        "coords": [
+          50.372041,
+          30.4592179
+        ]
+      },
+      "distance_km": 6.7,
+      "tariff": "Стандарт",
+      "payment": "💵 Готівка",
+      "price": 1169,
+      "destination": "Невідомо"
+    },
+    {
+      "id": "778abfe9-78fb-4d7e-9956-1d8e4f2b8f2e",
+      "user_id": 6956364231,
+      "username": null,
+      "chat_id": 6956364231,
+      "pickup": null,
+      "destination": null,
+      "tariff": "Стандарт",
+      "price": 1169,
+      "payment_method": "💵 Готівка",
+      "created_at": "2025-08-20T05:52:55.805460"
+    },
+    {
+      "id": "1755669177242",
+      "created_at": "2025-08-20T08:52:57.242589+03:00",
+      "passenger": {
+        "user_id": 6956364231,
+        "username": null,
+        "first_name": "Сергій",
+        "last_name": "Вікторович",
+        "phone": "380983871459"
+      },
+      "route": {
+        "start": {
+          "coords": [
+            50.336718,
+            30.432703
+          ]
+        },
+        "stops": [],
+        "final": {
+          "address": "Глушкова 12",
+          "coords": [
+            50.372041,
+            30.4592179
+          ]
+        },
+        "distance_km": 6.7
+      },
+      "pricing": {
+        "tariff": "Стандарт",
+        "multiplier": 1.3,
+        "extra_stops_fee": 30,
+        "price_total": 1169
+      },
+      "payment_type": "💵 Готівка",
+      "eta_min": 8,
+      "status": "new",
+      "pickup": {
+        "address": "50.336718,30.432703",
+        "coords": [
+          50.336718,
+          30.432703
+        ]
+      },
+      "dropoff": {
+        "address": "Глушкова 12",
+        "coords": [
+          50.372041,
+          30.4592179
+        ]
+      },
+      "distance_km": 6.7,
+      "tariff": "Стандарт",
+      "payment": "💵 Готівка",
+      "price": 1169,
+      "destination": "Невідомо"
+    },
+    {
+      "id": "997b611a-ef14-4bb4-8e86-8de473ecf15a",
+      "user_id": 6956364231,
+      "username": null,
+      "chat_id": 6956364231,
+      "pickup": null,
+      "destination": null,
+      "tariff": "Стандарт",
+      "price": 1169,
+      "payment_method": "💵 Готівка",
+      "created_at": "2025-08-20T06:35:58.005676"
+    },
+    {
+      "id": "1755672263451",
+      "created_at": "2025-08-20T09:44:23.451900+03:00",
+      "passenger": {
+        "user_id": 6956364231,
+        "username": null,
+        "first_name": "Сергій",
+        "last_name": "Вікторович",
+        "phone": "380983871459"
+      },
+      "route": {
+        "start": {
+          "coords": [
+            50.336718,
+            30.432703
+          ]
+        },
+        "stops": [],
+        "final": {
+          "address": "Глушкова 12",
+          "coords": [
+            50.372041,
+            30.4592179
+          ]
+        },
+        "distance_km": 6.7
+      },
+      "pricing": {
+        "tariff": "Стандарт",
+        "multiplier": 1.3,
+        "extra_stops_fee": 30,
+        "price_total": 1169
+      },
+      "payment_type": "💵 Готівка",
+      "eta_min": 8,
+      "status": "new",
+      "pickup": {
+        "address": "50.336718,30.432703",
+        "coords": [
+          50.336718,
+          30.432703
+        ]
+      },
+      "dropoff": {
+        "address": "Глушкова 12",
+        "coords": [
+          50.372041,
+          30.4592179
+        ]
+      },
+      "distance_km": 6.7,
+      "tariff": "Стандарт",
+      "payment": "💵 Готівка",
+      "price": 1169,
+      "destination": "Невідомо"
+    },
+    {
+      "id": "1755673495987",
+      "created_at": "2025-08-20T10:04:55.987551+03:00",
+      "passenger": {
+        "user_id": 6956364231,
+        "username": null,
+        "first_name": "Сергій",
+        "last_name": "Вікторович",
+        "phone": "380983871459"
+      },
+      "route": {
+        "start": {
+          "coords": [
+            50.336718,
+            30.432703
+          ]
+        },
+        "stops": [],
+        "final": {
+          "address": "Глушкова 12",
+          "coords": [
+            50.372041,
+            30.4592179
+          ]
+        },
+        "distance_km": 6.7
+      },
+      "pricing": {
+        "tariff": "Стандарт",
+        "multiplier": 1.3,
+        "extra_stops_fee": 30,
+        "price_total": 1169
+      },
+      "payment_type": "💵 Готівка",
+      "eta_min": 8,
+      "status": "new",
+      "pickup": {
+        "address": "50.336718,30.432703",
+        "coords": [
+          50.336718,
+          30.432703
+        ]
+      },
+      "dropoff": {
+        "address": "Глушкова 12",
+        "coords": [
+          50.372041,
+          30.4592179
+        ]
+      },
+      "distance_km": 6.7,
+      "tariff": "Стандарт",
+      "payment": "💵 Готівка",
+      "price": 1169,
+      "destination": "Невідомо"
+    },
+    {
+      "id": "1755673764893",
+      "created_at": "2025-08-20T10:09:24.893683+03:00",
+      "passenger": {
+        "user_id": 6956364231,
+        "username": null,
+        "first_name": "Сергій",
+        "last_name": "Вікторович",
+        "phone": "380983871459"
+      },
+      "route": {
+        "start": {
+          "coords": [
+            50.336718,
+            30.432703
+          ]
+        },
+        "stops": [],
+        "final": {
+          "address": "Глушкова 12",
+          "coords": [
+            50.372041,
+            30.4592179
+          ]
+        },
+        "distance_km": 6.7
+      },
+      "pricing": {
+        "tariff": "Стандарт",
+        "multiplier": 1.3,
+        "extra_stops_fee": 30,
+        "price_total": 1169
+      },
+      "payment_type": "💵 Готівка",
+      "eta_min": 8,
+      "status": "new",
+      "pickup": {
+        "address": "50.336718,30.432703",
+        "coords": [
+          50.336718,
+          30.432703
+        ]
+      },
+      "dropoff": {
+        "address": "Глушкова 12",
+        "coords": [
+          50.372041,
+          30.4592179
+        ]
+      },
+      "distance_km": 6.7,
+      "tariff": "Стандарт",
+      "payment": "💵 Готівка",
+      "price": 1169,
+      "destination": "Невідомо",
+      "accepted_by": 6956364231,
+      "accepted_at": "2025-08-20T07:09:46.645565+00:00"
+    },
+    {
+      "id": "1755674127802",
+      "created_at": "2025-08-20T10:15:27.802910+03:00",
+      "passenger": {
+        "user_id": 6956364231,
+        "username": null,
+        "first_name": "Сергій",
+        "last_name": "Вікторович",
+        "phone": "380983871459"
+      },
+      "route": {
+        "start": {
+          "coords": [
+            50.336718,
+            30.432703
+          ]
+        },
+        "stops": [],
+        "final": {
+          "address": "Глушкова 12",
+          "coords": [
+            50.372041,
+            30.4592179
+          ]
+        },
+        "distance_km": 6.7
+      },
+      "pricing": {
+        "tariff": "Стандарт",
+        "multiplier": 1.3,
+        "extra_stops_fee": 30,
+        "price_total": 1169
+      },
+      "payment_type": "💵 Готівка",
+      "eta_min": 8,
+      "status": "done",
+      "pickup": {
+        "address": "50.336718,30.432703",
+        "coords": [
+          50.336718,
+          30.432703
+        ]
+      },
+      "dropoff": {
+        "address": "Глушкова 12",
+        "coords": [
+          50.372041,
+          30.4592179
+        ]
+      },
+      "distance_km": 6.7,
+      "tariff": "Стандарт",
+      "payment": "💵 Готівка",
+      "price": 1169,
+      "destination": "Невідомо",
+      "accepted_by": 6956364231,
+      "accepted_at": "2025-08-20T07:15:32.010072+00:00",
+      "arrived_at": "2025-08-20T07:15:36.813763+00:00",
+      "finished_at": "2025-08-20T07:15:45.619914+00:00"
+    },
+    {
+      "id": "1755674181976",
+      "created_at": "2025-08-20T10:16:21.976352+03:00",
+      "passenger": {
+        "user_id": 6956364231,
+        "username": null,
+        "first_name": "Сергій",
+        "last_name": "Вікторович",
+        "phone": "380983871459"
+      },
+      "route": {
+        "start": {
+          "coords": [
+            50.336718,
+            30.432703
+          ]
+        },
+        "stops": [],
+        "final": {
+          "address": "Глушкова 12",
+          "coords": [
+            50.372041,
+            30.4592179
+          ]
+        },
+        "distance_km": 6.7
+      },
+      "pricing": {
+        "tariff": "Стандарт",
+        "multiplier": 1.3,
+        "extra_stops_fee": 30,
+        "price_total": 1169
+      },
+      "payment_type": "💵 Готівка",
+      "eta_min": 8,
+      "status": "new",
+      "pickup": {
+        "address": "50.336718,30.432703",
+        "coords": [
+          50.336718,
+          30.432703
+        ]
+      },
+      "dropoff": {
+        "address": "Глушкова 12",
+        "coords": [
+          50.372041,
+          30.4592179
+        ]
+      },
+      "distance_km": 6.7,
+      "tariff": "Стандарт",
+      "payment": "💵 Готівка",
+      "price": 1169,
+      "destination": "Невідомо"
+    },
+    {
+      "id": "1755674439992",
+      "created_at": "2025-08-20T10:20:39.992565+03:00",
+      "passenger": {
+        "user_id": 6956364231,
+        "username": null,
+        "first_name": "Сергій",
+        "last_name": "Вікторович",
+        "phone": "380983871459"
+      },
+      "route": {
+        "start": {
+          "coords": [
+            50.336718,
+            30.432703
+          ]
+        },
+        "stops": [],
+        "final": {
+          "address": "Глушкова 12",
+          "coords": [
+            50.372041,
+            30.4592179
+          ]
+        },
+        "distance_km": 6.7
+      },
+      "pricing": {
+        "tariff": "Стандарт",
+        "multiplier": 1.3,
+        "extra_stops_fee": 30,
+        "price_total": 1169
+      },
+      "payment_type": "💵 Готівка",
+      "eta_min": 8,
+      "status": "new",
+      "pickup": {
+        "address": "50.336718,30.432703",
+        "coords": [
+          50.336718,
+          30.432703
+        ]
+      },
+      "dropoff": {
+        "address": "Глушкова 12",
+        "coords": [
+          50.372041,
+          30.4592179
+        ]
+      },
+      "distance_km": 6.7,
+      "tariff": "Стандарт",
+      "payment": "💵 Готівка",
+      "price": 1169,
+      "destination": "Невідомо"
+    },
+    {
+      "id": "1755675095511",
+      "created_at": "2025-08-20T10:31:35.511087+03:00",
+      "passenger": {
+        "user_id": 6956364231,
+        "username": null,
+        "first_name": "Сергій",
+        "last_name": "Вікторович",
+        "phone": "380983871459"
+      },
+      "route": {
+        "start": {
+          "coords": [
+            50.336718,
+            30.432703
+          ]
+        },
+        "stops": [],
+        "final": {
+          "address": "Глушкова 12",
+          "coords": [
+            50.372041,
+            30.4592179
+          ]
+        },
+        "distance_km": 6.7
+      },
+      "pricing": {
+        "tariff": "Стандарт",
+        "multiplier": 1.3,
+        "extra_stops_fee": 30,
+        "price_total": 1169
+      },
+      "payment_type": "💵 Готівка",
+      "eta_min": 8,
+      "status": "new",
+      "pickup": {
+        "address": "50.336718,30.432703",
+        "coords": [
+          50.336718,
+          30.432703
+        ]
+      },
+      "dropoff": {
+        "address": "Глушкова 12",
+        "coords": [
+          50.372041,
+          30.4592179
+        ]
+      },
+      "distance_km": 6.7,
+      "tariff": "Стандарт",
+      "payment": "💵 Готівка",
+      "price": 1169,
+      "destination": "Невідомо"
+    },
+    {
+      "id": "1755675190811",
+      "created_at": "2025-08-20T10:33:10.811782+03:00",
+      "passenger": {
+        "user_id": 6956364231,
+        "username": null,
+        "first_name": "Сергій",
+        "last_name": "Вікторович",
+        "phone": "380983871459"
+      },
+      "route": {
+        "start": {
+          "coords": [
+            50.336718,
+            30.432703
+          ]
+        },
+        "stops": [],
+        "final": {
+          "address": "Глушкова 12",
+          "coords": [
+            50.372041,
+            30.4592179
+          ]
+        },
+        "distance_km": 6.7
+      },
+      "pricing": {
+        "tariff": "Стандарт",
+        "multiplier": 1.3,
+        "extra_stops_fee": 30,
+        "price_total": 1169
+      },
+      "payment_type": "💵 Готівка",
+      "eta_min": 8,
+      "status": "new",
+      "pickup": {
+        "address": "50.336718,30.432703",
+        "coords": [
+          50.336718,
+          30.432703
+        ]
+      },
+      "dropoff": {
+        "address": "Глушкова 12",
+        "coords": [
+          50.372041,
+          30.4592179
+        ]
+      },
+      "distance_km": 6.7,
+      "tariff": "Стандарт",
+      "payment": "💵 Готівка",
+      "price": 1169,
+      "destination": "Невідомо"
+    },
+    {
+      "id": "1755675358380",
+      "created_at": "2025-08-20T10:35:58.380975+03:00",
+      "passenger": {
+        "user_id": 6956364231,
+        "username": null,
+        "first_name": "Сергій",
+        "last_name": "Вікторович",
+        "phone": "380983871459"
+      },
+      "route": {
+        "start": {
+          "coords": [
+            50.336718,
+            30.432703
+          ]
+        },
+        "stops": [],
+        "final": {
+          "address": "Глушкова 12",
+          "coords": [
+            50.372041,
+            30.4592179
+          ]
+        },
+        "distance_km": 6.7
+      },
+      "pricing": {
+        "tariff": "Стандарт",
+        "multiplier": 1.3,
+        "extra_stops_fee": 30,
+        "price_total": 1169
+      },
+      "payment_type": "💵 Готівка",
+      "eta_min": 8,
+      "status": "new",
+      "pickup": {
+        "address": "50.336718,30.432703",
+        "coords": [
+          50.336718,
+          30.432703
+        ]
+      },
+      "dropoff": {
+        "address": "Глушкова 12",
+        "coords": [
+          50.372041,
+          30.4592179
+        ]
+      },
+      "distance_km": 6.7,
+      "tariff": "Стандарт",
+      "payment": "💵 Готівка",
+      "price": 1169,
+      "destination": "Невідомо"
+    },
+    {
+      "id": "1755676410261",
+      "created_at": "2025-08-20T10:53:30.261662+03:00",
+      "passenger": {
+        "user_id": 6956364231,
+        "username": null,
+        "first_name": "Сергій",
+        "last_name": "Вікторович",
+        "phone": "380983871459"
+      },
+      "route": {
+        "start": {
+          "coords": [
+            50.336718,
+            30.432703
+          ]
+        },
+        "stops": [],
+        "final": {
+          "address": "Глушкова 12",
+          "coords": [
+            50.372041,
+            30.4592179
+          ]
+        },
+        "distance_km": 6.7
+      },
+      "pricing": {
+        "tariff": "Стандарт",
+        "multiplier": 1.3,
+        "extra_stops_fee": 30,
+        "price_total": 1169
+      },
+      "payment_type": "💵 Готівка",
+      "eta_min": 8,
+      "status": "new",
+      "pickup": {
+        "address": "50.336718,30.432703",
+        "coords": [
+          50.336718,
+          30.432703
+        ]
+      },
+      "dropoff": {
+        "address": "Глушкова 12",
+        "coords": [
+          50.372041,
+          30.4592179
+        ]
+      },
+      "distance_km": 6.7,
+      "tariff": "Стандарт",
+      "payment": "💵 Готівка",
+      "price": 1169,
+      "destination": "Невідомо"
+    },
+    {
+      "id": "1755676520038",
+      "created_at": "2025-08-20T10:55:20.038050+03:00",
+      "passenger": {
+        "user_id": 6956364231,
+        "username": null,
+        "first_name": "Сергій",
+        "last_name": "Вікторович",
+        "phone": "380983871459"
+      },
+      "route": {
+        "start": {
+          "coords": [
+            50.336718,
+            30.432703
+          ]
+        },
+        "stops": [],
+        "final": {
+          "address": "Глушкова 12",
+          "coords": [
+            50.372041,
+            30.4592179
+          ]
+        },
+        "distance_km": 6.7
+      },
+      "pricing": {
+        "tariff": "Стандарт",
+        "multiplier": 1.3,
+        "extra_stops_fee": 30,
+        "price_total": 1169
+      },
+      "payment_type": "💵 Готівка",
+      "eta_min": 8,
+      "status": "new",
+      "pickup": {
+        "address": "50.336718,30.432703",
+        "coords": [
+          50.336718,
+          30.432703
+        ]
+      },
+      "dropoff": {
+        "address": "Глушкова 12",
+        "coords": [
+          50.372041,
+          30.4592179
+        ]
+      },
+      "distance_km": 6.7,
+      "tariff": "Стандарт",
+      "payment": "💵 Готівка",
+      "price": 1169,
+      "destination": "Невідомо"
+    },
+    {
+      "id": "1755676880934",
+      "created_at": "2025-08-20T11:01:20.934490+03:00",
+      "passenger": {
+        "user_id": 6956364231,
+        "username": null,
+        "first_name": "Сергій",
+        "last_name": "Вікторович",
+        "phone": "380983871459"
+      },
+      "route": {
+        "start": {
+          "coords": [
+            50.336718,
+            30.432703
+          ]
+        },
+        "stops": [],
+        "final": {
+          "address": "Глушкова 12",
+          "coords": [
+            50.372041,
+            30.4592179
+          ]
+        },
+        "distance_km": 6.7
+      },
+      "pricing": {
+        "tariff": "Стандарт",
+        "multiplier": 1.3,
+        "extra_stops_fee": 30,
+        "price_total": 1169
+      },
+      "payment_type": "💵 Готівка",
+      "eta_min": 8,
+      "status": "new",
+      "pickup": {
+        "address": "50.336718,30.432703",
+        "coords": [
+          50.336718,
+          30.432703
+        ]
+      },
+      "dropoff": {
+        "address": "Глушкова 12",
+        "coords": [
+          50.372041,
+          30.4592179
+        ]
+      },
+      "distance_km": 6.7,
+      "tariff": "Стандарт",
+      "payment": "💵 Готівка",
+      "price": 1169,
+      "destination": "Невідомо"
+    },
+    {
+      "id": "1755676946341",
+      "created_at": "2025-08-20T11:02:26.341708+03:00",
+      "passenger": {
+        "user_id": 6956364231,
+        "username": null,
+        "first_name": "Сергій",
+        "last_name": "Вікторович",
+        "phone": "380983871459"
+      },
+      "route": {
+        "start": {
+          "coords": [
+            50.336718,
+            30.432703
+          ]
+        },
+        "stops": [],
+        "final": {
+          "address": "Глушкова 12",
+          "coords": [
+            50.372041,
+            30.4592179
+          ]
+        },
+        "distance_km": 6.7
+      },
+      "pricing": {
+        "tariff": "Стандарт",
+        "multiplier": 1.0,
+        "extra_stops_fee": 30,
+        "price_total": 899
+      },
+      "payment_type": "💵 Готівка",
+      "eta_min": 6,
+      "status": "new",
+      "pickup": {
+        "address": "50.336718,30.432703",
+        "coords": [
+          50.336718,
+          30.432703
+        ]
+      },
+      "dropoff": {
+        "address": "Глушкова 12",
+        "coords": [
+          50.372041,
+          30.4592179
+        ]
+      },
+      "distance_km": 6.7,
+      "tariff": "Стандарт",
+      "payment": "💵 Готівка",
+      "price": 899,
+      "destination": "Невідомо"
+    },
+    {
+      "id": "1755677473026",
+      "created_at": "2025-08-20T11:11:13.026847+03:00",
+      "passenger": {
+        "user_id": 6956364231,
+        "username": null,
+        "first_name": "Сергій",
+        "last_name": "Вікторович",
+        "phone": "380983871459"
+      },
+      "route": {
+        "start": {
+          "coords": [
+            50.336718,
+            30.432703
+          ]
+        },
+        "stops": [],
+        "final": {
+          "address": "Глушкова 12",
+          "coords": [
+            50.372041,
+            30.4592179
+          ]
+        },
+        "distance_km": 6.7
+      },
+      "pricing": {
+        "tariff": "Стандарт",
+        "multiplier": 1.0,
+        "extra_stops_fee": 30,
+        "price_total": 899
+      },
+      "payment_type": "💵 Готівка",
+      "eta_min": 6,
+      "status": "new",
+      "pickup": {
+        "address": "50.336718,30.432703",
+        "coords": [
+          50.336718,
+          30.432703
+        ]
+      },
+      "dropoff": {
+        "address": "Глушкова 12",
+        "coords": [
+          50.372041,
+          30.4592179
+        ]
+      },
+      "distance_km": 6.7,
+      "tariff": "Стандарт",
+      "payment": "💵 Готівка",
+      "price": 899,
+      "destination": "Невідомо"
+    },
+    {
+      "id": "1755678115090",
+      "created_at": "2025-08-20T11:21:55.090329+03:00",
+      "passenger": {
+        "user_id": 6956364231,
+        "username": null,
+        "first_name": "Сергій",
+        "last_name": "Вікторович",
+        "phone": "380983871459"
+      },
+      "route": {
+        "start": {
+          "coords": [
+            50.336718,
+            30.432703
+          ]
+        },
+        "stops": [],
+        "final": {
+          "address": "Глушкова 12",
+          "coords": [
+            50.372041,
+            30.4592179
+          ]
+        },
+        "distance_km": 6.7
+      },
+      "pricing": {
+        "tariff": "Стандарт",
+        "multiplier": 1.0,
+        "extra_stops_fee": 30,
+        "price_total": 899
+      },
+      "payment_type": "💵 Готівка",
+      "eta_min": 6,
+      "status": "new",
+      "pickup": {
+        "address": "50.336718,30.432703",
+        "coords": [
+          50.336718,
+          30.432703
+        ]
+      },
+      "dropoff": {
+        "address": "Глушкова 12",
+        "coords": [
+          50.372041,
+          30.4592179
+        ]
+      },
+      "distance_km": 6.7,
+      "tariff": "Стандарт",
+      "payment": "💵 Готівка",
+      "price": 899,
+      "destination": "Невідомо"
+    },
+    {
+      "id": "1755678761783",
+      "created_at": "2025-08-20T11:32:41.783971+03:00",
+      "passenger": {
+        "user_id": 6956364231,
+        "username": null,
+        "first_name": "Сергій",
+        "last_name": "Вікторович",
+        "phone": "380983871459"
+      },
+      "route": {
+        "start": {
+          "coords": [
+            50.336718,
+            30.432703
+          ]
+        },
+        "stops": [],
+        "final": {
+          "address": "Глушкова 12",
+          "coords": [
+            50.372041,
+            30.4592179
+          ]
+        },
+        "distance_km": 6.7
+      },
+      "pricing": {
+        "tariff": "Стандарт",
+        "multiplier": 1.0,
+        "extra_stops_fee": 30,
+        "price_total": 899
+      },
+      "payment_type": "💵 Готівка",
+      "eta_min": 6,
+      "status": "new",
+      "pickup": {
+        "address": "50.336718,30.432703",
+        "coords": [
+          50.336718,
+          30.432703
+        ]
+      },
+      "dropoff": {
+        "address": "Глушкова 12",
+        "coords": [
+          50.372041,
+          30.4592179
+        ]
+      },
+      "distance_km": 6.7,
+      "tariff": "Стандарт",
+      "payment": "💵 Готівка",
+      "price": 899,
+      "destination": "Невідомо"
+    },
+    {
+      "id": "1755679075998",
+      "created_at": "2025-08-20T11:37:55.998672+03:00",
+      "passenger": {
+        "user_id": 6956364231,
+        "username": null,
+        "first_name": "Сергій",
+        "last_name": "Вікторович",
+        "phone": "380983871459"
+      },
+      "route": {
+        "start": {
+          "coords": [
+            50.336718,
+            30.432703
+          ]
+        },
+        "stops": [],
+        "final": {
+          "address": "Глушкова 12",
+          "coords": [
+            50.372041,
+            30.4592179
+          ]
+        },
+        "distance_km": 6.7
+      },
+      "pricing": {
+        "tariff": "Стандарт",
+        "multiplier": 1.0,
+        "extra_stops_fee": 30,
+        "price_total": 899
+      },
+      "payment_type": "💵 Готівка",
+      "eta_min": 6,
+      "status": "new",
+      "pickup": {
+        "address": "50.336718,30.432703",
+        "coords": [
+          50.336718,
+          30.432703
+        ]
+      },
+      "dropoff": {
+        "address": "Глушкова 12",
+        "coords": [
+          50.372041,
+          30.4592179
+        ]
+      },
+      "distance_km": 6.7,
+      "tariff": "Стандарт",
+      "payment": "💵 Готівка",
+      "price": 899,
+      "destination": "Невідомо"
+    },
+    {
+      "id": "1755679595294",
+      "created_at": "2025-08-20T11:46:35.294003+03:00",
+      "passenger": {
+        "user_id": 6956364231,
+        "username": null,
+        "first_name": "Сергій",
+        "last_name": "Вікторович",
+        "phone": "380983871459"
+      },
+      "route": {
+        "start": {
+          "coords": [
+            50.336718,
+            30.432703
+          ]
+        },
+        "stops": [],
+        "final": {
+          "address": "Глушкова 12",
+          "coords": [
+            50.372041,
+            30.4592179
+          ]
+        },
+        "distance_km": 6.7
+      },
+      "pricing": {
+        "tariff": "Стандарт",
+        "multiplier": 1.0,
+        "extra_stops_fee": 30,
+        "price_total": 899
+      },
+      "payment_type": "💵 Готівка",
+      "eta_min": 6,
+      "status": "new",
+      "pickup": {
+        "address": "50.336718,30.432703",
+        "coords": [
+          50.336718,
+          30.432703
+        ]
+      },
+      "dropoff": {
+        "address": "Глушкова 12",
+        "coords": [
+          50.372041,
+          30.4592179
+        ]
+      },
+      "distance_km": 6.7,
+      "tariff": "Стандарт",
+      "payment": "💵 Готівка",
+      "price": 899,
+      "destination": "Невідомо"
+    },
+    {
+      "id": "1755679793077",
+      "created_at": "2025-08-20T11:49:53.077370+03:00",
+      "passenger": {
+        "user_id": 6956364231,
+        "username": null,
+        "first_name": "Сергій",
+        "last_name": "Вікторович",
+        "phone": "380983871459"
+      },
+      "route": {
+        "start": {
+          "coords": [
+            50.336718,
+            30.432703
+          ]
+        },
+        "stops": [],
+        "final": {
+          "address": "Глушкова 12",
+          "coords": [
+            50.372041,
+            30.4592179
+          ]
+        },
+        "distance_km": 6.7
+      },
+      "pricing": {
+        "tariff": "Стандарт",
+        "multiplier": 1.0,
+        "extra_stops_fee": 30,
+        "price_total": 899
+      },
+      "payment_type": "💵 Готівка",
+      "eta_min": 6,
+      "status": "new",
+      "pickup": {
+        "address": "50.336718,30.432703",
+        "coords": [
+          50.336718,
+          30.432703
+        ]
+      },
+      "dropoff": {
+        "address": "Глушкова 12",
+        "coords": [
+          50.372041,
+          30.4592179
+        ]
+      },
+      "distance_km": 6.7,
+      "tariff": "Стандарт",
+      "payment": "💵 Готівка",
+      "price": 899,
+      "destination": "Невідомо"
+    },
+    {
+      "id": "1755680148255",
+      "created_at": "2025-08-20T11:55:48.255353+03:00",
+      "passenger": {
+        "user_id": 6956364231,
+        "username": null,
+        "first_name": "Сергій",
+        "last_name": "Вікторович",
+        "phone": "380983871459"
+      },
+      "route": {
+        "start": {
+          "coords": [
+            50.336718,
+            30.432703
+          ]
+        },
+        "stops": [],
+        "final": {
+          "address": "Глушкова 12",
+          "coords": [
+            50.372041,
+            30.4592179
+          ]
+        },
+        "distance_km": 6.7
+      },
+      "pricing": {
+        "tariff": "Стандарт",
+        "multiplier": 1.0,
+        "extra_stops_fee": 30,
+        "price_total": 899
+      },
+      "payment_type": "💵 Готівка",
+      "eta_min": 6,
+      "status": "new",
+      "pickup": {
+        "address": "50.336718,30.432703",
+        "coords": [
+          50.336718,
+          30.432703
+        ]
+      },
+      "dropoff": {
+        "address": "Глушкова 12",
+        "coords": [
+          50.372041,
+          30.4592179
+        ]
+      },
+      "distance_km": 6.7,
+      "tariff": "Стандарт",
+      "payment": "💵 Готівка",
+      "price": 899,
+      "destination": "Невідомо"
+    },
+    {
+      "id": "1755680359017",
+      "created_at": "2025-08-20T11:59:19.017137+03:00",
+      "passenger": {
+        "user_id": 6956364231,
+        "username": null,
+        "first_name": "Сергій",
+        "last_name": "Вікторович",
+        "phone": "380983871459"
+      },
+      "route": {
+        "start": {
+          "coords": [
+            50.336718,
+            30.432703
+          ]
+        },
+        "stops": [],
+        "final": {
+          "address": "Глушкова 12",
+          "coords": [
+            50.372041,
+            30.4592179
+          ]
+        },
+        "distance_km": 6.7
+      },
+      "pricing": {
+        "tariff": "Стандарт",
+        "multiplier": 1.0,
+        "extra_stops_fee": 30,
+        "price_total": 899
+      },
+      "payment_type": "💵 Готівка",
+      "eta_min": 6,
+      "status": "new",
+      "pickup": {
+        "address": "50.336718,30.432703",
+        "coords": [
+          50.336718,
+          30.432703
+        ]
+      },
+      "dropoff": {
+        "address": "Глушкова 12",
+        "coords": [
+          50.372041,
+          30.4592179
+        ]
+      },
+      "distance_km": 6.7,
+      "tariff": "Стандарт",
+      "payment": "💵 Готівка",
+      "price": 899,
+      "destination": "Невідомо"
+    },
+    {
+      "id": "1755680447428",
+      "created_at": "2025-08-20T12:00:47.428352+03:00",
+      "passenger": {
+        "user_id": 6956364231,
+        "username": null,
+        "first_name": "Сергій",
+        "last_name": "Вікторович",
+        "phone": "380983871459"
+      },
+      "route": {
+        "start": {
+          "coords": [
+            50.336718,
+            30.432703
+          ]
+        },
+        "stops": [],
+        "final": {
+          "address": "Глушкова 12",
+          "coords": [
+            50.372041,
+            30.4592179
+          ]
+        },
+        "distance_km": 6.7
+      },
+      "pricing": {
+        "tariff": "Стандарт",
+        "multiplier": 1.0,
+        "extra_stops_fee": 30,
+        "price_total": 899
+      },
+      "payment_type": "💵 Готівка",
+      "eta_min": 6,
+      "status": "new",
+      "pickup": {
+        "address": "50.336718,30.432703",
+        "coords": [
+          50.336718,
+          30.432703
+        ]
+      },
+      "dropoff": {
+        "address": "Глушкова 12",
+        "coords": [
+          50.372041,
+          30.4592179
+        ]
+      },
+      "distance_km": 6.7,
+      "tariff": "Стандарт",
+      "payment": "💵 Готівка",
+      "price": 899,
+      "destination": "Невідомо"
+    },
+    {
+      "id": "1755680485816",
+      "created_at": "2025-08-20T12:01:25.816483+03:00",
+      "passenger": {
+        "user_id": 6956364231,
+        "username": null,
+        "first_name": "Сергій",
+        "last_name": "Вікторович",
+        "phone": "380983871459"
+      },
+      "route": {
+        "start": {
+          "coords": [
+            50.336718,
+            30.432703
+          ]
+        },
+        "stops": [],
+        "final": {
+          "address": "Глушкова 12",
+          "coords": [
+            50.372041,
+            30.4592179
+          ]
+        },
+        "distance_km": 6.7
+      },
+      "pricing": {
+        "tariff": "Стандарт",
+        "multiplier": 1.0,
+        "extra_stops_fee": 30,
+        "price_total": 899
+      },
+      "payment_type": "💵 Готівка",
+      "eta_min": 6,
+      "status": "new",
+      "pickup": {
+        "address": "50.336718,30.432703",
+        "coords": [
+          50.336718,
+          30.432703
+        ]
+      },
+      "dropoff": {
+        "address": "Глушкова 12",
+        "coords": [
+          50.372041,
+          30.4592179
+        ]
+      },
+      "distance_km": 6.7,
+      "tariff": "Стандарт",
+      "payment": "💵 Готівка",
+      "price": 899,
+      "destination": "Невідомо"
+    },
+    {
+      "id": "1755680689143",
+      "created_at": "2025-08-20T12:04:49.143099+03:00",
+      "passenger": {
+        "user_id": 6956364231,
+        "username": null,
+        "first_name": "Сергій",
+        "last_name": "Вікторович",
+        "phone": "380983871459"
+      },
+      "route": {
+        "start": {
+          "coords": [
+            50.336718,
+            30.432703
+          ]
+        },
+        "stops": [],
+        "final": {
+          "address": "Глушкова 12",
+          "coords": [
+            50.372041,
+            30.4592179
+          ]
+        },
+        "distance_km": 6.7
+      },
+      "pricing": {
+        "tariff": "Стандарт",
+        "multiplier": 1.0,
+        "extra_stops_fee": 30,
+        "price_total": 899
+      },
+      "payment_type": "💵 Готівка",
+      "eta_min": 6,
+      "status": "new",
+      "pickup": {
+        "address": "50.336718,30.432703",
+        "coords": [
+          50.336718,
+          30.432703
+        ]
+      },
+      "dropoff": {
+        "address": "Глушкова 12",
+        "coords": [
+          50.372041,
+          30.4592179
+        ]
+      },
+      "distance_km": 6.7,
+      "tariff": "Стандарт",
+      "payment": "💵 Готівка",
+      "price": 899,
+      "destination": "Невідомо"
+    },
+    {
+      "id": "1755681006757",
+      "created_at": "2025-08-20T12:10:06.757906+03:00",
+      "passenger": {
+        "user_id": 6956364231,
+        "username": null,
+        "first_name": "Сергій",
+        "last_name": "Вікторович",
+        "phone": "380983871459"
+      },
+      "route": {
+        "start": {
+          "coords": [
+            50.336718,
+            30.432703
+          ]
+        },
+        "stops": [],
+        "final": {
+          "address": "Глушкова 12",
+          "coords": [
+            50.372041,
+            30.4592179
+          ]
+        },
+        "distance_km": 6.7
+      },
+      "pricing": {
+        "tariff": "Стандарт",
+        "multiplier": 1.0,
+        "extra_stops_fee": 30,
+        "price_total": 899
+      },
+      "payment_type": "💵 Готівка",
+      "eta_min": 6,
+      "status": "done",
+      "pickup": {
+        "address": "50.336718,30.432703",
+        "coords": [
+          50.336718,
+          30.432703
+        ]
+      },
+      "dropoff": {
+        "address": "Глушкова 12",
+        "coords": [
+          50.372041,
+          30.4592179
+        ]
+      },
+      "distance_km": 6.7,
+      "tariff": "Стандарт",
+      "payment": "💵 Готівка",
+      "price": 899,
+      "destination": "Невідомо",
+      "accepted_by": 6956364231,
+      "accepted_at": "2025-08-20T09:10:12.924477+00:00",
+      "finished_at": "2025-08-20T09:10:55.066629+00:00"
+    },
+    {
+      "id": "1755703632078",
+      "created_at": "2025-08-20T18:27:12.078128+03:00",
+      "passenger": {
+        "user_id": 6956364231,
+        "username": null,
+        "first_name": "Сергій",
+        "last_name": "Вікторович",
+        "phone": "380983871459"
+      },
+      "route": {
+        "start": {
+          "coords": [
+            50.336718,
+            30.432703
+          ]
+        },
+        "stops": [],
+        "final": {
+          "address": "Глушкова 12",
+          "coords": [
+            50.372041,
+            30.4592179
+          ]
+        },
+        "distance_km": 6.7
+      },
+      "pricing": {
+        "tariff": "Стандарт",
+        "multiplier": 1.0,
+        "extra_stops_fee": 30,
+        "price_total": 899
+      },
+      "payment_type": "💵 Готівка",
+      "eta_min": 6,
+      "status": "new",
+      "pickup": {
+        "address": "50.336718,30.432703",
+        "coords": [
+          50.336718,
+          30.432703
+        ]
+      },
+      "dropoff": {
+        "address": "Глушкова 12",
+        "coords": [
+          50.372041,
+          30.4592179
+        ]
+      },
+      "distance_km": 6.7,
+      "tariff": "Стандарт",
+      "payment": "💵 Готівка",
+      "price": 899,
+      "destination": "Невідомо"
+    },
+    {
+      "id": "1755703794290",
+      "created_at": "2025-08-20T18:29:54.290470+03:00",
+      "passenger": {
+        "user_id": 6956364231,
+        "username": null,
+        "first_name": "Сергій",
+        "last_name": "Вікторович",
+        "phone": "380983871459"
+      },
+      "route": {
+        "start": {
+          "coords": [
+            50.336718,
+            30.432703
+          ]
+        },
+        "stops": [],
+        "final": {
+          "address": "Глушкова 12",
+          "coords": [
+            50.372041,
+            30.4592179
+          ]
+        },
+        "distance_km": 6.7
+      },
+      "pricing": {
+        "tariff": "Стандарт",
+        "multiplier": 1.0,
+        "extra_stops_fee": 30,
+        "price_total": 899
+      },
+      "payment_type": "💵 Готівка",
+      "eta_min": 6,
+      "status": "arrived",
+      "pickup": {
+        "address": "50.336718,30.432703",
+        "coords": [
+          50.336718,
+          30.432703
+        ]
+      },
+      "dropoff": {
+        "address": "Глушкова 12",
+        "coords": [
+          50.372041,
+          30.4592179
+        ]
+      },
+      "distance_km": 6.7,
+      "tariff": "Стандарт",
+      "payment": "💵 Готівка",
+      "price": 899,
+      "destination": "Невідомо",
+      "accepted_by": 6956364231,
+      "accepted_at": "2025-08-20T15:29:58.688883+00:00",
+      "arrived_at": "2025-08-20T15:35:09.066140+00:00"
+    },
+    {
+      "id": "1755706526697",
+      "created_at": "2025-08-20T19:15:26.697894+03:00",
+      "passenger": {
+        "user_id": 6956364231,
+        "username": null,
+        "first_name": "Сергій",
+        "last_name": "Вікторович",
+        "phone": "380983871459"
+      },
+      "route": {
+        "start": {
+          "coords": [
+            50.336718,
+            30.432703
+          ]
+        },
+        "stops": [],
+        "final": {
+          "address": "Глушкова 12",
+          "coords": [
+            50.372041,
+            30.4592179
+          ]
+        },
+        "distance_km": 6.7
+      },
+      "pricing": {
+        "tariff": "Стандарт",
+        "multiplier": 1.3,
+        "extra_stops_fee": 30,
+        "price_total": 1169
+      },
+      "payment_type": "💵 Готівка",
+      "eta_min": 8,
+      "status": "new",
+      "pickup": {
+        "address": "50.336718,30.432703",
+        "coords": [
+          50.336718,
+          30.432703
+        ]
+      },
+      "dropoff": {
+        "address": "Глушкова 12",
+        "coords": [
+          50.372041,
+          30.4592179
+        ]
+      },
+      "distance_km": 6.7,
+      "tariff": "Стандарт",
+      "payment": "💵 Готівка",
+      "price": 1169,
+      "destination": "Невідомо"
+    },
+    {
+      "id": "1755707045983",
+      "created_at": "2025-08-20T19:24:05.983698+03:00",
+      "passenger": {
+        "user_id": 6956364231,
+        "username": null,
+        "first_name": "Сергій",
+        "last_name": "Вікторович",
+        "phone": "380983871459"
+      },
+      "route": {
+        "start": {
+          "coords": [
+            50.336718,
+            30.432703
+          ]
+        },
+        "stops": [],
+        "final": {
+          "address": "Глушкова 12",
+          "coords": [
+            50.372041,
+            30.4592179
+          ]
+        },
+        "distance_km": 6.7
+      },
+      "pricing": {
+        "tariff": "Комфорт",
+        "multiplier": 1.3,
+        "extra_stops_fee": 30,
+        "price_total": 291
+      },
+      "payment_type": "💵 Готівка",
+      "eta_min": 10,
+      "status": "new",
+      "pickup": {
+        "address": "50.336718,30.432703",
+        "coords": [
+          50.336718,
+          30.432703
+        ]
+      },
+      "dropoff": {
+        "address": "Глушкова 12",
+        "coords": [
+          50.372041,
+          30.4592179
+        ]
+      },
+      "distance_km": 6.7,
+      "tariff": "Комфорт",
+      "payment": "💵 Готівка",
+      "price": 291,
+      "destination": "Невідомо"
+    },
+    {
+      "id": "1755707285603",
+      "created_at": "2025-08-20T19:28:05.603501+03:00",
+      "passenger": {
+        "user_id": 6956364231,
+        "username": null,
+        "first_name": "Сергій",
+        "last_name": "Вікторович",
+        "phone": "380983871459"
+      },
+      "route": {
+        "start": {
+          "coords": [
+            50.336718,
+            30.432703
+          ]
+        },
+        "stops": [],
+        "final": {
+          "address": "Глушкова 12",
+          "coords": [
+            50.372041,
+            30.4592179
+          ]
+        },
+        "distance_km": 6.7
+      },
+      "pricing": {
+        "tariff": "Стандарт",
+        "multiplier": 1.3,
+        "extra_stops_fee": 30,
+        "price_total": 1169
+      },
+      "payment_type": "💵 Готівка",
+      "eta_min": 8,
+      "status": "new",
+      "pickup": {
+        "address": "50.336718,30.432703",
+        "coords": [
+          50.336718,
+          30.432703
+        ]
+      },
+      "dropoff": {
+        "address": "Глушкова 12",
+        "coords": [
+          50.372041,
+          30.4592179
+        ]
+      },
+      "distance_km": 6.7,
+      "tariff": "Стандарт",
+      "payment": "💵 Готівка",
+      "price": 1169,
+      "destination": "Невідомо"
+    },
+    {
+      "id": "1755707482419",
+      "created_at": "2025-08-20T19:31:22.419997+03:00",
+      "passenger": {
+        "user_id": 6956364231,
+        "username": null,
+        "first_name": "Сергій",
+        "last_name": "Вікторович",
+        "phone": "380983871459"
+      },
+      "route": {
+        "start": {
+          "coords": [
+            50.336718,
+            30.432703
+          ]
+        },
+        "stops": [],
+        "final": {
+          "address": "Глушкова 12",
+          "coords": [
+            50.372041,
+            30.4592179
+          ]
+        },
+        "distance_km": 6.7
+      },
+      "pricing": {
+        "tariff": "Комфорт",
+        "multiplier": 1.3,
+        "extra_stops_fee": 30,
+        "price_total": 291
+      },
+      "payment_type": "💵 Готівка",
+      "eta_min": 10,
+      "status": "new",
+      "pickup": {
+        "address": "50.336718,30.432703",
+        "coords": [
+          50.336718,
+          30.432703
+        ]
+      },
+      "dropoff": {
+        "address": "Глушкова 12",
+        "coords": [
+          50.372041,
+          30.4592179
+        ]
+      },
+      "distance_km": 6.7,
+      "tariff": "Комфорт",
+      "payment": "💵 Готівка",
+      "price": 291,
+      "destination": "Невідомо"
+    },
+    {
+      "id": "1755707688050",
+      "created_at": "2025-08-20T19:34:48.050288+03:00",
+      "passenger": {
+        "user_id": 6956364231,
+        "username": null,
+        "first_name": "Сергій",
+        "last_name": "Вікторович",
+        "phone": "380983871459"
+      },
+      "route": {
+        "start": {
+          "coords": [
+            50.336718,
+            30.432703
+          ]
+        },
+        "stops": [],
+        "final": {
+          "address": "Глушкова 12",
+          "coords": [
+            50.372041,
+            30.4592179
+          ]
+        },
+        "distance_km": 6.7
+      },
+      "pricing": {
+        "tariff": "Стандарт",
+        "multiplier": 1.3,
+        "extra_stops_fee": 30,
+        "price_total": 1169
+      },
+      "payment_type": "💵 Готівка",
+      "eta_min": 8,
+      "status": "new",
+      "pickup": {
+        "address": "50.336718,30.432703",
+        "coords": [
+          50.336718,
+          30.432703
+        ]
+      },
+      "dropoff": {
+        "address": "Глушкова 12",
+        "coords": [
+          50.372041,
+          30.4592179
+        ]
+      },
+      "distance_km": 6.7,
+      "tariff": "Стандарт",
+      "payment": "💵 Готівка",
+      "price": 1169,
+      "destination": "Невідомо"
+    },
+    {
+      "id": "1755707855273",
+      "created_at": "2025-08-20T19:37:35.273760+03:00",
+      "passenger": {
+        "user_id": 6956364231,
+        "username": null,
+        "first_name": "Сергій",
+        "last_name": "Вікторович",
+        "phone": "380983871459"
+      },
+      "route": {
+        "start": {
+          "coords": [
+            50.336718,
+            30.432703
+          ]
+        },
+        "stops": [],
+        "final": {
+          "address": "Глушкова 12",
+          "coords": [
+            50.372041,
+            30.4592179
+          ]
+        },
+        "distance_km": 6.7
+      },
+      "pricing": {
+        "tariff": "Стандарт",
+        "multiplier": 1.3,
+        "extra_stops_fee": 30,
+        "price_total": 1169
+      },
+      "payment_type": "💵 Готівка",
+      "eta_min": 8,
+      "status": "done",
+      "pickup": {
+        "address": "50.336718,30.432703",
+        "coords": [
+          50.336718,
+          30.432703
+        ]
+      },
+      "dropoff": {
+        "address": "Глушкова 12",
+        "coords": [
+          50.372041,
+          30.4592179
+        ]
+      },
+      "distance_km": 6.7,
+      "tariff": "Стандарт",
+      "payment": "💵 Готівка",
+      "price": 1169,
+      "destination": "Невідомо",
+      "accepted_by": 6956364231,
+      "accepted_at": "2025-08-20T16:37:45.337048+00:00",
+      "arrived_at": "2025-08-20T16:38:13.672551+00:00",
+      "finished_at": "2025-08-20T16:38:15.413201+00:00"
+    },
+    {
+      "id": "1755707922772",
+      "created_at": "2025-08-20T19:38:42.772861+03:00",
+      "passenger": {
+        "user_id": 6956364231,
+        "username": null,
+        "first_name": "Сергій",
+        "last_name": "Вікторович",
+        "phone": "380983871459"
+      },
+      "route": {
+        "start": {
+          "coords": [
+            50.336718,
+            30.432703
+          ]
+        },
+        "stops": [],
+        "final": {
+          "address": "Глушкова 12",
+          "coords": [
+            50.372041,
+            30.4592179
+          ]
+        },
+        "distance_km": 6.7
+      },
+      "pricing": {
+        "tariff": "Комфорт",
+        "multiplier": 1.0,
+        "extra_stops_fee": 30,
+        "price_total": 224
+      },
+      "payment_type": "💳 Переказ на картку водію",
+      "eta_min": 8,
+      "status": "done",
+      "pickup": {
+        "address": "50.336718,30.432703",
+        "coords": [
+          50.336718,
+          30.432703
+        ]
+      },
+      "dropoff": {
+        "address": "Глушкова 12",
+        "coords": [
+          50.372041,
+          30.4592179
+        ]
+      },
+      "distance_km": 6.7,
+      "tariff": "Комфорт",
+      "payment": "💳 Переказ на картку водію",
+      "price": 224,
+      "destination": "Невідомо",
+      "accepted_by": 6956364231,
+      "accepted_at": "2025-08-20T16:38:49.065214+00:00",
+      "arrived_at": "2025-08-20T16:38:52.264659+00:00",
+      "started_at": "2025-08-20T16:38:55.146944+00:00",
+      "finished_at": "2025-08-20T16:38:57.303407+00:00"
+    },
+    {
+      "id": "1755707976107",
+      "created_at": "2025-08-20T19:39:36.107996+03:00",
+      "passenger": {
+        "user_id": 6956364231,
+        "username": null,
+        "first_name": "Сергій",
+        "last_name": "Вікторович",
+        "phone": "380983871459"
+      },
+      "route": {
+        "start": {
+          "coords": [
+            50.336718,
+            30.432703
+          ]
+        },
+        "stops": [],
+        "final": {
+          "address": "Глушкова 12",
+          "coords": [
+            50.372041,
+            30.4592179
+          ]
+        },
+        "distance_km": 6.7
+      },
+      "pricing": {
+        "tariff": "Стандарт",
+        "multiplier": 1.0,
+        "extra_stops_fee": 30,
+        "price_total": 899
+      },
+      "payment_type": "💵 Готівка",
+      "eta_min": 6,
+      "status": "new",
+      "pickup": {
+        "address": "50.336718,30.432703",
+        "coords": [
+          50.336718,
+          30.432703
+        ]
+      },
+      "dropoff": {
+        "address": "Глушкова 12",
+        "coords": [
+          50.372041,
+          30.4592179
+        ]
+      },
+      "distance_km": 6.7,
+      "tariff": "Стандарт",
+      "payment": "💵 Готівка",
+      "price": 899,
+      "destination": "Невідомо"
+    },
+    {
+      "id": "1755708168136",
+      "created_at": "2025-08-20T19:42:48.136050+03:00",
+      "passenger": {
+        "user_id": 6956364231,
+        "username": null,
+        "first_name": "Сергій",
+        "last_name": "Вікторович",
+        "phone": "380983871459"
+      },
+      "route": {
+        "start": {
+          "coords": [
+            50.336718,
+            30.432703
+          ]
+        },
+        "stops": [],
+        "final": {
+          "address": "Глушкова 12",
+          "coords": [
+            50.372041,
+            30.4592179
+          ]
+        },
+        "distance_km": 6.7
+      },
+      "pricing": {
+        "tariff": "Бізнес",
+        "multiplier": 1.0,
+        "extra_stops_fee": 30,
+        "price_total": 283
+      },
+      "payment_type": "💳 Переказ на картку водію",
+      "eta_min": 10,
+      "status": "new",
+      "pickup": {
+        "address": "50.336718,30.432703",
+        "coords": [
+          50.336718,
+          30.432703
+        ]
+      },
+      "dropoff": {
+        "address": "Глушкова 12",
+        "coords": [
+          50.372041,
+          30.4592179
+        ]
+      },
+      "distance_km": 6.7,
+      "tariff": "Бізнес",
+      "payment": "💳 Переказ на картку водію",
+      "price": 283,
+      "destination": "Невідомо"
+    },
+    {
+      "id": "1755708798815",
+      "created_at": "2025-08-20T19:53:18.815009+03:00",
+      "passenger": {
+        "user_id": 6956364231,
+        "username": null,
+        "first_name": "Сергій",
+        "last_name": "Вікторович",
+        "phone": "380983871459"
+      },
+      "route": {
+        "start": {
+          "coords": [
+            50.336718,
+            30.432703
+          ]
+        },
+        "stops": [],
+        "final": {
+          "address": "Глушкова 12",
+          "coords": [
+            50.372041,
+            30.4592179
+          ]
+        },
+        "distance_km": 6.7
+      },
+      "pricing": {
+        "tariff": "Стандарт",
+        "multiplier": 1.0,
+        "extra_stops_fee": 30,
+        "price_total": 899
+      },
+      "payment_type": "💵 Готівка",
+      "eta_min": 6,
+      "status": "new",
+      "pickup": {
+        "address": "50.336718,30.432703",
+        "coords": [
+          50.336718,
+          30.432703
+        ]
+      },
+      "dropoff": {
+        "address": "Глушкова 12",
+        "coords": [
+          50.372041,
+          30.4592179
+        ]
+      },
+      "distance_km": 6.7,
+      "tariff": "Стандарт",
+      "payment": "💵 Готівка",
+      "price": 899,
+      "destination": "Невідомо"
+    },
+    {
+      "id": "1755708896605",
+      "created_at": "2025-08-20T19:54:56.605841+03:00",
+      "passenger": {
+        "user_id": 6956364231,
+        "username": null,
+        "first_name": "Сергій",
+        "last_name": "Вікторович",
+        "phone": "380983871459"
+      },
+      "route": {
+        "start": {
+          "coords": [
+            50.336718,
+            30.432703
+          ]
+        },
+        "stops": [],
+        "final": {
+          "address": "Глушкова 12",
+          "coords": [
+            50.372041,
+            30.4592179
+          ]
+        },
+        "distance_km": 6.7
+      },
+      "pricing": {
+        "tariff": "Стандарт",
+        "multiplier": 1.0,
+        "extra_stops_fee": 30,
+        "price_total": 899
+      },
+      "payment_type": "💵 Готівка",
+      "eta_min": 6,
+      "status": "done",
+      "pickup": {
+        "address": "50.336718,30.432703",
+        "coords": [
+          50.336718,
+          30.432703
+        ]
+      },
+      "dropoff": {
+        "address": "Глушкова 12",
+        "coords": [
+          50.372041,
+          30.4592179
+        ]
+      },
+      "distance_km": 6.7,
+      "tariff": "Стандарт",
+      "payment": "💵 Готівка",
+      "price": 899,
+      "destination": "Невідомо",
+      "accepted_by": 8112132399,
+      "accepted_at": "2025-08-20T16:55:02.535778+00:00",
+      "arrived_at": "2025-08-20T16:55:04.665694+00:00",
+      "finished_at": "2025-08-20T16:55:05.551535+00:00"
+    },
+    {
+      "id": "1755715762940",
+      "created_at": "2025-08-20T21:49:22.940166+03:00",
+      "passenger": {
+        "user_id": 8112132399,
+        "username": "prot_009",
+        "first_name": "Proton",
+        "last_name": null,
+        "phone": "380981512669"
+      },
+      "route": {
+        "start": {
+          "coords": [
+            50.336685,
+            30.432716
+          ]
+        },
+        "stops": [],
+        "final": {
+          "address": "Волноваська 15",
+          "coords": [
+            50.4449745,
+            30.4104902
+          ]
+        },
+        "distance_km": 17.0
+      },
+      "pricing": {
+        "tariff": "Стандарт",
+        "multiplier": 1.3,
+        "extra_stops_fee": 30,
+        "price_total": 3445
+      },
+      "payment_type": "💵 Готівка",
+      "eta_min": 8,
+      "status": "done",
+      "pickup": {
+        "address": "50.336685,30.432716",
+        "coords": [
+          50.336685,
+          30.432716
+        ]
+      },
+      "dropoff": {
+        "address": "Волноваська 15",
+        "coords": [
+          50.4449745,
+          30.4104902
+        ]
+      },
+      "distance_km": 17.0,
+      "tariff": "Стандарт",
+      "payment": "💵 Готівка",
+      "price": 3445,
+      "destination": "Невідомо",
+      "accepted_by": 8112132399,
+      "accepted_at": "2025-08-20T18:49:29.081356+00:00",
+      "arrived_at": "2025-08-20T18:49:30.629615+00:00",
+      "finished_at": "2025-08-20T18:49:34.201934+00:00"
+    },
+    {
+      "id": "1755715842313",
+      "created_at": "2025-08-20T21:50:42.313338+03:00",
+      "passenger": {
+        "user_id": 8112132399,
+        "username": "prot_009",
+        "first_name": "Proton",
+        "last_name": null,
+        "phone": "380981512669"
+      },
+      "route": {
+        "start": {
+          "coords": [
+            50.4449745,
+            30.4104902
+          ]
+        },
+        "stops": [],
+        "final": {
+          "address": "Mashynobudivna St, 14а, Chabany, Kyivs'ka oblast, Ukraine, 08163",
+          "coords": [
+            50.336896,
+            30.432995
+          ]
+        },
+        "distance_km": 19.4
+      },
+      "pricing": {
+        "tariff": "Стандарт",
+        "multiplier": 1.3,
+        "extra_stops_fee": 30,
+        "price_total": 3975
+      },
+      "payment_type": "💵 Готівка",
+      "eta_min": 8,
+      "status": "done",
+      "pickup": {
+        "address": "50.444975,30.410490",
+        "coords": [
+          50.4449745,
+          30.4104902
+        ]
+      },
+      "dropoff": {
+        "address": "Mashynobudivna St, 14а, Chabany, Kyivs'ka oblast, Ukraine, 08163",
+        "coords": [
+          50.336896,
+          30.432995
+        ]
+      },
+      "distance_km": 19.4,
+      "tariff": "Стандарт",
+      "payment": "💵 Готівка",
+      "price": 3975,
+      "destination": "Невідомо",
+      "accepted_by": 8112132399,
+      "accepted_at": "2025-08-20T18:50:46.907394+00:00",
+      "arrived_at": "2025-08-20T18:50:48.749085+00:00",
+      "finished_at": "2025-08-20T18:50:50.106563+00:00"
+    },
+    {
+      "id": "1755716573045",
+      "created_at": "2025-08-20T22:02:53.045294+03:00",
+      "passenger": {
+        "user_id": 6956364231,
+        "username": null,
+        "first_name": "Сергій",
+        "last_name": "Вікторович",
+        "phone": "380983871459"
+      },
+      "route": {
+        "start": {
+          "coords": [
+            50.336718,
+            30.432703
+          ]
+        },
+        "stops": [],
+        "final": {
+          "address": "Глушкова 12",
+          "coords": [
+            50.372041,
+            30.4592179
+          ]
+        },
+        "distance_km": 6.7
+      },
+      "pricing": {
+        "tariff": "Стандарт",
+        "multiplier": 1.3,
+        "extra_stops_fee": 30,
+        "price_total": 1169
+      },
+      "payment_type": "💵 Готівка",
+      "eta_min": 8,
+      "status": "done",
+      "pickup": {
+        "address": "50.336718,30.432703",
+        "coords": [
+          50.336718,
+          30.432703
+        ]
+      },
+      "dropoff": {
+        "address": "Глушкова 12",
+        "coords": [
+          50.372041,
+          30.4592179
+        ]
+      },
+      "distance_km": 6.7,
+      "tariff": "Стандарт",
+      "payment": "💵 Готівка",
+      "price": 1169,
+      "destination": "Невідомо",
+      "accepted_by": 8112132399,
+      "accepted_at": "2025-08-20T19:02:58.266414+00:00",
+      "arrived_at": "2025-08-20T19:03:00.215648+00:00",
+      "finished_at": "2025-08-20T19:03:01.450588+00:00"
+    },
+    {
+      "id": "1755850678987",
+      "created_at": "2025-08-22T11:17:58.987753+03:00",
+      "passenger": {
+        "user_id": 6956364231,
+        "username": null,
+        "first_name": "Сергій",
+        "last_name": "Вікторович",
+        "phone": "380983871459"
+      },
+      "route": {
+        "start": {
+          "coords": [
+            50.336718,
+            30.432703
+          ]
+        },
+        "stops": [],
+        "final": {
+          "address": "Глушкова 12",
+          "coords": [
+            50.372041,
+            30.4592179
+          ]
+        },
+        "distance_km": 6.7
+      },
+      "pricing": {
+        "tariff": "Стандарт",
+        "multiplier": 1.0,
+        "extra_stops_fee": 30,
+        "price_total": 899
+      },
+      "payment_type": "💵 Готівка",
+      "eta_min": 6,
+      "status": "done",
+      "pickup": {
+        "address": "50.336718,30.432703",
+        "coords": [
+          50.336718,
+          30.432703
+        ]
+      },
+      "dropoff": {
+        "address": "Глушкова 12",
+        "coords": [
+          50.372041,
+          30.4592179
+        ]
+      },
+      "distance_km": 6.7,
+      "tariff": "Стандарт",
+      "payment": "💵 Готівка",
+      "price": 899,
+      "destination": "Невідомо",
+      "accepted_by": 6956364231,
+      "accepted_at": "2025-08-22T08:18:03.453137+00:00",
+      "arrived_at": "2025-08-22T08:18:08.942137+00:00",
+      "started_at": "2025-08-22T08:18:10.525746+00:00",
+      "finished_at": "2025-08-22T08:18:12.347533+00:00"
+    },
+    {
+      "id": "1755850754987",
+      "created_at": "2025-08-22T11:19:14.987274+03:00",
+      "passenger": {
+        "user_id": 6956364231,
+        "username": null,
+        "first_name": "Сергій",
+        "last_name": "Вікторович",
+        "phone": "380983871459"
+      },
+      "route": {
+        "start": {
+          "coords": [
+            50.336718,
+            30.432703
+          ]
+        },
+        "stops": [],
+        "final": {
+          "address": "Глушкова 12",
+          "coords": [
+            50.372041,
+            30.4592179
+          ]
+        },
+        "distance_km": 6.7
+      },
+      "pricing": {
+        "tariff": "Стандарт",
+        "multiplier": 1.0,
+        "extra_stops_fee": 30,
+        "price_total": 899
+      },
+      "payment_type": "💵 Готівка",
+      "eta_min": 6,
+      "status": "arrived",
+      "pickup": {
+        "address": "50.336718,30.432703",
+        "coords": [
+          50.336718,
+          30.432703
+        ]
+      },
+      "dropoff": {
+        "address": "Глушкова 12",
+        "coords": [
+          50.372041,
+          30.4592179
+        ]
+      },
+      "distance_km": 6.7,
+      "tariff": "Стандарт",
+      "payment": "💵 Готівка",
+      "price": 899,
+      "destination": "Невідомо",
+      "accepted_by": 6956364231,
+      "accepted_at": "2025-08-22T08:19:51.302066+00:00",
+      "arrived_at": "2025-08-22T08:20:05.615673+00:00"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+    "6956364231": {
+        "name": "Сергій Вікторович",
+        "phone": "380983871459",
+        "favorites": {
+            "home": {
+                "coords": [
+                    50.336718,
+                    30.432703
+                ],
+                "address": "Mashynobudivna St, 14а, Chabany, Kyivs'ka oblast, Ukraine, 08163"
+            },
+            "work": {
+                "coords": [
+                    50.3700037,
+                    30.45579
+                ],
+                "address": "Глушкова 12"
+            },
+            "other": [
+                {
+                    "coords": [
+                        50.42564729999999,
+                        30.5157001
+                    ],
+                    "address": "Антоновича 85"
+                },
+                {
+                    "coords": [
+                        50.3700037,
+                        30.45579
+                    ],
+                    "address": "Глушкова 12"
+                }
+            ]
+        },
+        "favorites_prompted": true,
+        "home_prompted_final": true,
+        "work_prompted_final": true
+    },
+    "968035316": {
+        "name": "Іванка Івашко",
+        "phone": "380986280363",
+        "favorites": {
+            "home": {
+                "coords": [
+                    50.336665,
+                    30.432697
+                ],
+                "address": "Mashynobudivna St, 14а, Chabany, Kyivs'ka oblast, Ukraine, 08163"
+            },
+            "work": {
+                "coords": [
+                    50.36551129999999,
+                    30.4496272
+                ],
+                "address": "Глушкова 30"
+            },
+            "other": []
+        },
+        "favorites_prompted": true,
+        "home_prompted_final": true,
+        "work_prompted_final": true
+    },
+    "8112132399": {
+        "name": "Proton",
+        "phone": "380981512669",
+        "favorites": {
+            "home": {
+                "coords": [
+                    50.336685,
+                    30.432716
+                ],
+                "address": "Mashynobudivna St, 14а, Chabany, Kyivs'ka oblast, Ukraine, 08163"
+            },
+            "work": {
+                "coords": [
+                    50.4449745,
+                    30.4104902
+                ],
+                "address": "Волноваська 15"
+            },
+            "other": []
+        },
+        "favorites_prompted": true,
+        "home_prompted_final": true,
+        "work_prompted_final": true
+    }
+}

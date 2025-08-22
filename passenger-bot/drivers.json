@@ -1,0 +1,22 @@
+{
+  "8112132399": {
+    "callsign": null,
+    "phone": null,
+    "car": null,
+    "docs": {},
+    "online": false,
+    "last_location": null,
+    "today": {
+      "trips": 0,
+      "earn": 0,
+      "accepted": 0,
+      "declined": 0,
+      "canceled": 0
+    },
+    "active_order_id": null,
+    "approved": false,
+    "approved_at": null,
+    "pickup_km": null,
+    "payment_method": null
+  }
+}
